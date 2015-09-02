@@ -7,6 +7,7 @@ float x,y;
 void setup() {
   size(500, 500);        // Try changing the width & height.
   x=  width/2;
+  
   y=  height/2;
 }
 
